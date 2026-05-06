@@ -952,6 +952,7 @@ SKILL_DESCRIPTIONS = {
     "tasks": "Break down implementation plans into actionable task lists.",
     "implement": "Execute all tasks from the task breakdown to build the feature.",
     "analyze": "Perform cross-artifact consistency analysis across spec.md, plan.md, and tasks.md.",
+    "review": "Review implemented code against spec, plan, and tasks; emit review.md with findings.",
     "clarify": "Structured clarification workflow for underspecified requirements.",
     "constitution": "Create or update project governing principles and development guidelines.",
     "checklist": "Generate custom quality checklists for validating requirements completeness and clarity.",

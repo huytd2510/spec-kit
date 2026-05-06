@@ -28,6 +28,7 @@ ARGUMENT_HINTS: dict[str, str] = {
     "tasks": "Optional task generation constraints",
     "implement": "Optional implementation guidance or task filter",
     "analyze": "Optional focus areas for analysis",
+    "review": "Optional review scope (diff range, branch, or focus area)",
     "clarify": "Optional areas to clarify in the spec",
     "constitution": "Principles or values for the project constitution",
     "checklist": "Domain or focus area for the checklist",
